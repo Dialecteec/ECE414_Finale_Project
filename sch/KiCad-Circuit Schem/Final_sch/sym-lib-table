@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name Lab5-cache)(type Legacy)(uri C:/Users/sunzi/Desktop/sch/Lab5/Lab5-cache.lib)(options "")(descr ""))
+  (lib (name qrd1114)(type Legacy)(uri C:/Users/sunzi/Desktop/qrd1114.lib)(options "")(descr ""))
+  (lib (name alb6_sch-rescue)(type Legacy)(uri ${KIPRJMOD}/alb6_sch-rescue.lib)(options "")(descr ""))
+  (lib (name Final_sch-rescue)(type Legacy)(uri ${KIPRJMOD}/Final_sch-rescue.lib)(options "")(descr ""))
+)
